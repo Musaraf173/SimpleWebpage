@@ -15,7 +15,7 @@ h2{
 }
 #page-wrap { 
   position: absolute; 
-  left: 40%; 
+  left: 36%; 
   width: 500px;
   margin-left: -200px;
 }
@@ -93,7 +93,7 @@ h2{
 }
 footer{
     position: absolute;
-    margin-left: 650px;
+    margin-left: 570px;
     padding:50px;
     bottom: -350px;
     
