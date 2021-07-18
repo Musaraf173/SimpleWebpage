@@ -1,0 +1,100 @@
+* { box-sizing: border-box;}
+
+body{
+    background-color: #fff;
+    font-family: 'Roboto Mono', monospace;
+   
+}
+h1{
+    font-size: 3.5em;
+    font-weight: bold;
+    color: gray;
+}
+h2{
+    font-weight: bold;
+}
+#page-wrap { 
+  position: absolute; 
+  left: 40%; 
+  width: 500px;
+  margin-left: -200px;
+}
+#midSec{
+    position:absolute;
+    left:300px;
+}
+#tr{
+    float: left;
+    padding: 27px;
+}
+
+#imgRight{
+    position: absolute;
+      left: 550px;
+      width: 300px;
+      top: 50px;
+      
+}
+
+#imgLeft{
+    position:absolute;
+      left: 200px;
+        top:400px;
+      width: 300px;
+
+}
+#tl{
+    float: right;
+    padding: 50px;
+    position: absolute;
+    width: 835px;
+    top: 350px;
+    left: 250px
+}
+
+#boxes{
+   float: left;
+    padding: 50px;
+    position: absolute;
+    width: 1000px;
+    top: 780px;
+    left: 0px
+}
+
+.botSecBox1{
+    position: absolute;
+    left: 50px;
+    margin: 10px;
+    padding: 20px;
+     width: 320px;
+    height: 250px;
+    border: 1px solid #7d7d7d;
+    box-shadow: 5px 10px 18px #888888;
+}
+.botSecBox2{
+    position: absolute;
+    left: 400px;
+    margin: 10px;
+    padding: 20px;
+     width: 320px;
+    height: 250px;
+    border: 1px solid #7d7d7d;
+    box-shadow: 5px 10px 18px #888888;
+}
+.botSecBox3{
+    position: absolute;
+    left: 750px;
+    margin: 10px;
+    padding: 20px;
+     width: 320px;
+    height: 250px;
+    border: 1px solid #7d7d7d;
+    box-shadow: 5px 10px 18px #888888;
+}
+footer{
+    position: absolute;
+    margin-left: 650px;
+    padding:50px;
+    bottom: -350px;
+    
+}
